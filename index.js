@@ -34,5 +34,5 @@ class heroi{
 
 }
 
-let dadosHeroi = new heroi("Caio", "16", "viking");
+let dadosHeroi = new heroi("Caio", "16", "monge");
 dadosHeroi.atacar();
